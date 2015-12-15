@@ -1,6 +1,6 @@
 {
   "name": "sequlize-model-initial",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Initial the models in models folder wieh Sequlize sync.",
   "main": "dist/index.js",
   "files": [

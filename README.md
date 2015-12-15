@@ -40,13 +40,17 @@ Initial the models in models folder wieh Sequlize sync.
 ## Install
 
 ```sh
-npm i -D sequlize-model-initial
+npm install --save sequlize-model-initial
 ```
 
 ## Usage
 
 ```js
 import sequlizeModelInitial from "sequlize-model-initial"
+
+or
+
+var sequlizeModelInitial = require('sequlize-model-initial');
 
 sequlizeModelInitial() // true
 ```
