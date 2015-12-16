@@ -1,6 +1,6 @@
 {
   "name": "sequlize-model-initial",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Initial the models in models folder wieh Sequlize sync.",
   "main": "dist/index.js",
   "files": [
@@ -59,6 +59,9 @@
     "watch": "*"
   },
   "dependencies": {
-    "bluebird": "^3.0.6"
+    "bluebird": "^3.0.6",
+    "moment": "^2.10.6",
+    "node-uuid": "^1.4.7",
+    "sequelize": "^3.13.0"
   }
 }
