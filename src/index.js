@@ -28,7 +28,7 @@ var getModelPath = function (modelPath, requirePaths) {
 
 exports.init = function(modelPath) {
   modelPath = modelPath || defaultModelPath;
-  console.log(modelPath);
+  //console.log(modelPath);
 
   var requirePaths = [];
   return getModelPath(modelPath, requirePaths).then(function () {

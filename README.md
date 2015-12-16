@@ -52,8 +52,24 @@ or
 
 var sequlizeModelInitial = require('sequlize-model-initial');
 
-sequlizeModelInitial() // true
+sequlizeModelInitial.init() // true
 ```
+
+## Function
+
+### .init([modelPath])
+
+Input the model folder path. Default to '\[projectpath\]/models'
+
+
+## Version
+
+List significant modify versions here.
+
+### 0.0.2
+
+Add **.init()** function.
+
 
 ## License
 
