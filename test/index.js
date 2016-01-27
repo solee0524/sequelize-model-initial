@@ -1,7 +1,7 @@
 import test from "tape"
-import sequlizeModelInitial from "../src"
+import sequelizeModelInitial from "../src"
 
 test("sequlizeModelInitial", (t) => {
   t.plan(1);
-  t.equal(true, sequlizeModelInitial.default(), "return true");
+  t.equal(true, sequelizeModelInitial.default(), "return true");
 });

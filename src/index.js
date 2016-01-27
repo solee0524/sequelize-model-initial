@@ -17,6 +17,8 @@ exports.default = function () {
   return true;
 };
 
+
+
 var getModelPath = function (modelPath, requirePaths) {
   var files = fs.readdirSync(modelPath);
   return Promise.resolve(files).map(function (file) {

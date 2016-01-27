@@ -1,7 +1,7 @@
 {
-  "name": "sequlize-model-initial",
-  "version": "0.1.0",
-  "description": "Initial the models in models folder wieh Sequlize sync.",
+  "name": "sequelize-model-initial",
+  "version": "0.1.1",
+  "description": "Initial the models in models folder wieh Sequelize sync.",
   "main": "dist/index.js",
   "files": [
     "bin/",
@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/solee0524/sequlize-model-initial.git"
+    "url": "git+https://github.com/solee0524/sequelize-model-initial.git"
   },
   "keywords": [
-    "sequlize",
+    "sequelize",
     "model",
     "initial",
     "sync"
@@ -40,9 +40,9 @@
   "author": "solee0524 <iblee0524@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/solee0524/sequlize-model-initial/issues"
+    "url": "https://github.com/solee0524/sequelize-model-initial/issues"
   },
-  "homepage": "https://github.com/solee0524/sequlize-model-initial#readme",
+  "homepage": "https://github.com/solee0524/sequelize-model-initial#readme",
   "devDependencies": {
     "babel-cli": "^6.3.17",
     "babel-core": "^6.3.17",
