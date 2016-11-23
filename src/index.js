@@ -6,7 +6,7 @@
 var fs = require('fs');
 var path = require('path');
 var Promise = require('bluebird');
-var uuid = require('node-uuid');
+var uuid = require('uuid');
 var Sequelize = require('sequelize');
 var moment = require('moment');
 
