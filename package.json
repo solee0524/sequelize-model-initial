@@ -61,7 +61,7 @@
   "dependencies": {
     "bluebird": "^3.0.6",
     "moment": "^2.10.6",
-    "node-uuid": "^1.4.7",
-    "sequelize": "^3.13.0"
+    "sequelize": "^3.13.0",
+    "uuid": "^3.0.0"
   }
 }
